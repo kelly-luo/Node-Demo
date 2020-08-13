@@ -9,7 +9,7 @@ app.use('/abc', movies);
 
 
 app.get('/', (req,res) => {
-    res.send('I changed the code to test heroku :)');
+    res.send('Github Automatic Deploy');
 })
 
 
